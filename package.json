@@ -4,6 +4,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
+    "deploy": "firebase deploy --only hosting --project admin-cattran"
   },
   "dependencies": {
     "archiver": "^7.0.1",
