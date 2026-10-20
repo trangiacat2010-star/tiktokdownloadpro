@@ -1,3 +1,4 @@
+
 [
   {
     "title": "LUX",
@@ -8,36 +9,43 @@
   {
     "title": "THEY SAID",
     "artist": "Binz",
-    "url": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/TOULIVER%20X%20BINZ%20-%20THEY%20SAID.mp4"
+    "url": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/TOULIVER%20X%20BINZ%20-%20THEY%20SAID.mp4",
+    "cover": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/OIP.png"
   },
   {
     "title": "SOFAR",
     "artist": "Binz",
-    "url": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/SOFAR%20-%20BINZ%20DA%20POET%20%EF%BD%9C%20OFFICIAL%20MUSIC%20VIDEO.mp4"
+    "url": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/SOFAR%20-%20BINZ%20DA%20POET%20%EF%BD%9C%20OFFICIAL%20MUSIC%20VIDEO.mp4",
+    "cover": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/OIP.png"
   },
   {
     "title": "Âm Thầm Bên Em",
     "artist": "Sơn Tùng M-TP",
-    "url": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/amthambenem.mp3"
+    "url": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/amthambenem.mp3",
+    "cover": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/OIP.png"
   },
   {
     "title": "Bình Yên",
     "artist": "Vũ",
-    "url": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/binhyen.mp3"
+    "url": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/binhyen.mp3",
+    "cover": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/OIP.png"
   },
   {
     "title": "Mất Kết Nối",
     "artist": "Dương Domic",
-    "url": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/matketnoi.mp3"
+    "url": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/matketnoi.mp3",
+    "cover": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/OIP.png"
   },
   {
     "title": "Thấy Tôi Yêu Cô Ấy",
     "artist": "Thanh Hưng",
-    "url": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/thaytoiyeucoay.mp3"
+    "url": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/thaytoiyeucoay.mp3",
+    "cover": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/OIP.png"
   },
   {
     "title": "Trả Cho Em",
     "artist": "N/A",
-    "url": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/trachoem.mp3"
+    "url": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/trachoem.mp3",
+    "cover": "https://raw.githubusercontent.com/trangiacat2010-star/tiktokdownloadpro/main/OIP.png"
   }
 ]
